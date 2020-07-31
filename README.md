@@ -1,6 +1,6 @@
 # Karona
 
-Karona is an android application to see trends, latest charts, essential features at your place and travel history of infected people.
+Karona is an android application to see trends, latest charts, essential features related to COVID-19 at your place and travel history of infected people.
 
 ## TechStack Used
 - MVP architecture Pattern
