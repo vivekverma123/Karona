@@ -60,13 +60,6 @@ public class HomeActivity extends AppCompatActivity implements HomeContract.view
             }
         });
 
-        binding.travel.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                startActivity(new Intent(HomeActivity.this, CoronaActivity.class));
-            }
-        });
-
         binding.chart.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
